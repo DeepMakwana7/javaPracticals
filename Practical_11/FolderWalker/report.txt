@@ -1,0 +1,4 @@
+File Report
+--------------------------------------------------
+Name: FolderWalker.class | Size: 3687 bytes | Modified: 2026-10-26T09:28:23.6176832Z
+Name: FolderWalker.java | Size: 1526 bytes | Modified: 2026-10-26T09:27:44.2391883Z
